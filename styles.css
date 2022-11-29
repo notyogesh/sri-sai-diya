@@ -13,3 +13,9 @@ img {
   margin: 0;
   padding: 0;
 }
+@media only screen and (max-width: 600px) {
+  img {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+}
